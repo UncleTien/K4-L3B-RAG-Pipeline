@@ -1,0 +1,29 @@
+# Công văn 4062/CT-NVT hướng dẫn đăng ký thuế và đăng ký sử dụng hóa đơn điện tử đối với hộ kinh doanh
+
+**Source:** https://thuvienphapluat.vn/banan/tin-tuc/toan-van-cong-van-4062ctnvt-huong-dan-dang-ky-thue-dang-ky-su-dung-hoa-don-dien-tu-doi-voi-ho-kinh--50845.html
+
+**Crawled:** 2026-09-25
+
+---
+
+# Công văn 4062/CT-NVT hướng dẫn đăng ký thuế và đăng ký sử dụng hóa đơn điện tử đối với hộ kinh doanh
+
+## Bối cảnh
+
+Bài viết giới thiệu Công văn 4062/CT-NVT ngày 18/06/2026 liên quan đến các vướng mắc trong đăng ký thuế và đăng ký sử dụng hóa đơn điện tử đối với hộ kinh doanh và cá nhân kinh doanh.
+
+## Các nhóm vấn đề được đề cập
+
+- Xác định trường hợp đăng ký thuế theo cơ chế một cửa liên thông hoặc đăng ký trực tiếp với cơ quan thuế.
+- Vấn đề đăng ký đối với trường hợp cho thuê nhà.
+- Việc sử dụng địa chỉ căn hộ chung cư làm trụ sở hoặc địa điểm kinh doanh.
+- Đăng ký sử dụng hóa đơn điện tử của hộ kinh doanh và cá nhân kinh doanh.
+- Những bất cập của chính sách hiện hành cần được xem xét, hoàn thiện.
+
+## Giá trị sử dụng trong hệ thống RAG
+
+Bài viết có thể hỗ trợ các câu hỏi liên quan đến vướng mắc khi đăng ký thuế, đăng ký hóa đơn điện tử và địa chỉ kinh doanh. Tuy nhiên, nội dung giải đáp trong công văn cần được phân biệt với quy định có tính bắt buộc trong nghị định, thông tư hoặc luật.
+
+## Lưu ý
+
+Cần lưu bản gốc công văn hoặc văn bản chính thức trong nhóm tài liệu pháp luật nếu muốn dùng nguồn này để trả lời câu hỏi có yêu cầu căn cứ pháp lý chính xác.
